@@ -1,0 +1,1 @@
+<a href="https://pinia.vuejs.org/" target="_blank" rel="noreferrer"><img src="https://pinia.vuejs.org/logo.svg" width="36" height="36" alt="React" /></a>
