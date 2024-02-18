@@ -8,6 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * ✉️  You can contact me at <a href="https://api.whatsapp.com/send/?phone=79591441679"><img src="https://img.shields.io/badge/whatsapp-green" /></a>, <a href="https://t.me/oksana_webdev"><img alt="Static Badge" src="https://img.shields.io/badge/telegramm-blue"></a>
 * 🧠  I'm learning on platform Strada and online-school STUDYWORK (english language) -->
 
+
 ### Skills
 
 
