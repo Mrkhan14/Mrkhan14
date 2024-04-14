@@ -9,6 +9,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🧠  I'm learning on platform Strada and online-school STUDYWORK (english language) -->
 
 
+
 ### Skills
 
 <p align="left">
