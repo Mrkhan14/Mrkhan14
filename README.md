@@ -1,5 +1,5 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdulakhad  Azimov
-===========================================================================================================================================
+=========================================================================================================================================== 
 <!--
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=5005&pause=1000&color=051015&multiline=true&width=1000&height=100&lines=I'm+front-end+developer.+I+have+been+working+since+2020+year+on+freelance." alt="Typing SVG" /></a>
 ---------------------------------------------------------------------------
