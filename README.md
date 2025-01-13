@@ -30,7 +30,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <!-- <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a> -->
 <!-- <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a> -->
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<!-- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a> -->
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
@@ -41,11 +41,27 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### Socials
 
-<p align="left"> <a href="https://www.codepen.io/oks767" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://discord.com/users/oksana_easy_code#3729" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/оксана-александрова-642983245" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/22090698" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a><a href="https://t.me/oksana_world_it"><img src="https://raw.githubusercontent.com/Patrolavia/telegram-badge/master/follow.svg" /></a></p>
+<p align="left"> 
+  <a href="https://www.codepen.io/oks767" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" />
+  </a> 
+<!--   <a href="https://discord.com/users/oksana_easy_code#3729" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
+  </a>  -->
+  <a href="https://www.linkedin.com/in/оксана-александрова-642983245" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  </a> 
+<!--   <a href="https://www.stackoverflow.com/users/22090698" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
+  </a> -->
+  <a href="https://t.me/tinch_dev">
+    <img src="https://raw.githubusercontent.com/Patrolavia/telegram-badge/master/follow.svg" />
+  </a>
+</p>
 
 
 ### Statistics
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oks767&theme=dark&background=000000)](https://git.io/streak-stats)
-
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oks767&theme=dark&background=000000)](https://git.io/streak-stats) -->
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oks767&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
