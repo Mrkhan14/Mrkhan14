@@ -37,7 +37,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </p> 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kanashkin&show_icons=true&theme=react) <br>
-![Most Usage Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanashkin&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Most Usage Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrkhan14&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### Socials
 
@@ -48,7 +48,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <!--   <a href="https://discord.com/users/oksana_easy_code#3729" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
   </a>  -->
-  <a href="https://www.linkedin.com/in/оксана-александрова-642983245" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/abdulaxadxon-azimov-5668021b3" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a> 
 <!--   <a href="https://www.stackoverflow.com/users/22090698" target="_blank" rel="noreferrer">
