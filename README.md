@@ -36,7 +36,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p> 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kanashkin&show_icons=true&theme=react) <br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrkhan14&show_icons=true&theme=react) <br>
 ![Most Usage Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrkhan14&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### Socials
