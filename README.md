@@ -64,4 +64,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oks767&theme=dark&background=000000)](https://git.io/streak-stats) -->
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oks767&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrkhan14&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
